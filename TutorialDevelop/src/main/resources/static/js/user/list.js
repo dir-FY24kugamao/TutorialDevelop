@@ -34,3 +34,4 @@ function clickBtnDelete() {
 
 // 削除ボタンに関数を割り当てる
 document.getElementById("deleteRun").onclick = clickBtnDelete;
+
